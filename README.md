@@ -16,3 +16,6 @@ A simple test script in Python that automates the following test cases:</br>
 <li>'Toruń',</li>
 <li>'Warszawa',</li>
 <li>'Wrocław'.</li>
+</ul>
+<br>
+The expected result: list of cities contains 11 elements and options describe in in the third point.
